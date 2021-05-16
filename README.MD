@@ -1,6 +1,6 @@
 # Actividad 3.4 | Mi primer servidor
 ***
-Materia: "Desarrollo basado en plataformas" como forma de calificación del primero parcial
+Materia: "Desarrollo basado en plataformas"
 
 ## Profesor: I.S. Luis Antonio Ramirez Martinez
 

@@ -1,0 +1,35 @@
+:root{
+    --color-texto: rgba(19, 182, 204, 0.822);
+}
+
+p{
+    color: var(--color-texto);
+}
+
+#titulo-principal{
+    color:var(--color-texto);
+    border-style: dotted;
+}
+
+.border{
+    border: 5px solid;
+}
+
+img[src]{
+    border: 5px doted;
+    size: 20rem;
+}
+
+#parrafo-importante{
+    border-style: dashed;
+    padding-bottom: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 200px;
+
+    margin-bottom: 15rem;
+}
+
+#test-parrafo{
+    padding : repeat(4) 20px;
+}
